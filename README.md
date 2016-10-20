@@ -1,3 +1,4 @@
+#Shell-ftp
 #!/bin/bash
  
 i=1
